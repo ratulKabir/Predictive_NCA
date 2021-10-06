@@ -311,9 +311,9 @@ DOI: 10.1007/978-3-540-24854-5_12](https://link.springer.com/chapter/10.1007%2F9
 
 <a id='20'> [[20] Holder, Ross & Tapamo, Jules-Raymond. (2017). Improved gradient local ternary patterns for facial expression recognition. EURASIP Journal on Image and Video Processing. 2017. 10.1186/s13640-017-0190-5.](https://www.academia.edu/34244878/Improved_gradient_local_ternary_patterns_for_facial_expression_recognition) </a>
 
-<a id='21'> [[21] An automated training paradigm reveals long-term memory in planaria and its persistence through head regeneration" Journal of Experimental Biology jeb.087809  First posted online July 2, 2013, doi:10.1242/jeb.087809(https://pubmed.ncbi.nlm.nih.gov/23821717/)] </a>
+<a id='21'> [[21] An automated training paradigm reveals long-term memory in planaria and its persistence through head regeneration" Journal of Experimental Biology jeb.087809  First posted online July 2, 2013, doi:10.1242/jeb.087809](https://pubmed.ncbi.nlm.nih.gov/23821717/) </a>
 
-<a id='22'> [[22] Nick Alonso and Emre Neftci. 2021. Tightening the Biological Constraints on Gradient-Based Predictive Coding. 2104.15137(https://arxiv.org/abs/2104.15137)] </a>
+<a id='22'> [[22] Nick Alonso and Emre Neftci. 2021. Tightening the Biological Constraints on Gradient-Based Predictive Coding. 2104.15137](https://arxiv.org/abs/2104.15137) </a>
 
 <!-- <a id='2'> [[2]()] </a>
 
